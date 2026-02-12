@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(touch:*)",
+      "Bash(python -m pip install:*)",
+      "Bash(timeout 3 tail:*)",
+      "Bash(exit 0)",
+      "Bash(python:*)",
+      "Bash(timeout 10 python:*)"
+    ]
+  }
+}

@@ -1,0 +1,14 @@
+# X-Plane Scenery Tool Dependencies
+
+# GUI Framework
+customtkinter>=5.2.0
+
+# HTTP Client
+requests>=2.31.0
+
+# Standard library modules (no installation needed)
+# - zipfile
+# - json
+# - pathlib
+# - base64
+# - datetime

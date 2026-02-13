@@ -1,0 +1,13 @@
+# Development and Build Dependencies
+# Install with: pip install -r requirements-dev.txt
+
+# Include runtime dependencies
+-r requirements.txt
+
+# Build tools
+pyinstaller>=6.0.0
+
+# Optional: for code quality
+# flake8>=6.0.0
+# black>=23.0.0
+# mypy>=1.0.0
